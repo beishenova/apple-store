@@ -25,7 +25,7 @@ body {
 
 .autor-info {
   width: 100%;
-  justify-content: space-between;
+  margin: 0 15px;
 }
 
 a {

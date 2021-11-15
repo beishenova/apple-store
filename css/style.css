@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 body {
@@ -13,6 +12,7 @@ body {
   height: 350px;
   color: gray;
   display: flex;
+  justify-content: center;
 }
 
 .footer {
@@ -20,10 +20,15 @@ body {
   width: 100%;
   background-color: cornflowerblue;
   align-items: end;
+  display: flex;
 }
 
-a{
+.autor-info {
+  width: 100%;
+  justify-content: space-between;
+}
+
+a {
   text-decoration: none;
   color: white;
-  
 }

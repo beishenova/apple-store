@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "name": "Iphone 13",
+      "price": "1200",
+      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.EROq1wguUl7LsN4Aj7_eGwHaFU%26pid%3DApi&f=1",
+      "desc": "super",
+      "id": 1
+    },
+    {
+      "name": "Iphone 12",
+      "price": "1000",
+      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.14oxpIlcY1O5QFDBkq64uwHaGs%26pid%3DApi&f=1",
+      "desc": "iphone",
+      "id": 2
+    },
+    {
+      "name": "Airpods Pro",
+      "price": "240",
+      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5pyFbmMIegwrQHwp-DjYdAHaFj%26pid%3DApi&f=1",
+      "desc": "супер ",
+      "id": 3
+    },
+    {
+      "name": "Macbook pro 2017 sds",
+      "price": "1200",
+      "desc": "macbook 2017 year",
+      "img": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP747/SP747_mbp13-gray.jpg",
+      "id": 4
+    },
+    {
+      "name": "Macbook pro 2018 TEST  123",
+      "price": "1300",
+      "desc": "macbook 2018 year",
+      "img": "https://photos5.appleinsider.com/gallery/26859-38934-MacBook-Pro-15-inch-xl.jpg",
+      "id": 5
+    },
+    {
+      "name": "Macbook pro 2019 999",
+      "price": "1300",
+      "desc": "macbook 2019 year",
+      "img": "https://i.pcmag.com/imagery/reviews/05WDsDuuodSwLCwsLxW98De-4..1569469944.jpg",
+      "id": 6
+    },
+    {
+      "name": "Macbook pro 2020",
+      "price": "1400",
+      "desc": "macbook 2020 year",
+      "img": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-pro-13-og-202011?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1604347427000",
+      "id": 7
+    },
+    {
+      "name": "Macbook pro 2021 test 11111",
+      "price": "1400",
+      "desc": "macbook 2021 year",
+      "img": "https://bgr.com/wp-content/uploads/2021/10/apple-macbook-pro-2021-official-7.jpg?quality=82&strip=all&w=1440&h=810&crop=1",
+      "id": 8
+    },
+    {
+      "name": "AirPods pro 111111",
+      "price": "1600",
+      "desc": "Apple's 3rd-generation AirPods arrive next week with a new design, spatial audio",
+      "img": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/airpods.jpg",
+      "id": 9
+    },
+    {
+      "name": "iPhone 12 Pro Max",
+      "price": "1200",
+      "desc": "iPhone 12 Pro Max",
+      "img": "https://www.mytrendyphone.eu/images/iPhone-12-Pro-Max-128GB-Graphite-0194252021200-25102020-1-p.jpg",
+      "id": 10
+    },
+    {
+      "name": "tests",
+      "price": "111",
+      "img": "https://photos5.appleinsider.com/gallery/26859-38934-MacBook-Pro-15-inch-xl.jpg",
+      "desc": "rwawr",
+      "id": 11
+    },
+    {
+      "name": "ff",
+      "price": "33",
+      "img": "https://photos5.appleinsider.com/gallery/26859-38934-MacBook-Pro-15-inch-xl.jpg",
+      "desc": "dd",
+      "id": 12
+    }
+  ]
+}

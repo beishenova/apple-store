@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: initial;
+}
+
+.video-container {
+  width: 100%;
+  height: 350px;
+  color: gray;
+  display: flex;
+}
+
+.footer {
+  padding: 20px;
+  width: 100%;
+  background-color: cornflowerblue;
+  align-items: end;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  
+}
